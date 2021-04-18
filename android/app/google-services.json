@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043666183598",
+    "project_id": "bhl0-f16ad",
+    "storage_bucket": "bhl0-f16ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043666183598:android:d58e9cc7bd56c52441d43f",
+        "android_client_info": {
+          "package_name": "com.abulion.bhl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043666183598-m27phcmrmb2keccn8s5q7vk2klmradq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYUv9emr23gIg6iPhW8fO4zf_SygKhw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043666183598-m27phcmrmb2keccn8s5q7vk2klmradq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
